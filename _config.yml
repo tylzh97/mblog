@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.chiyumao.com
+url: https://tylzh97.github.io/mblog/
 date_format: "ordinal"
 title: 我的学习笔记
 subtitle: "个人的学习分享"
@@ -10,7 +10,7 @@ description: "RH的个人比克"
 keywords: 学习, 笔记, 分享, Blog
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: tylzh97/mblog
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
