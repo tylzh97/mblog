@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.chiyumao.com/mblog
+url: https://www.chiyumao.com
 date_format: "ordinal"
 title: 我的学习笔记
 subtitle: "个人的学习分享"
