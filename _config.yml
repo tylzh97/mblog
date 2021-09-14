@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.chiyumao.com
+url: https://blog.maikebuke.com
 date_format: "ordinal"
-title: 我的学习笔记
+title: 麦科不氪-我的学习笔记
 subtitle: "个人的学习分享"
-description: "RH的个人比克"
+description: "麦科不氪の学习小站"
 keywords: 学习, 笔记, 分享, Blog
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: tylzh97/mblog
+repository: tylzh97/rhblog
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
