@@ -4,9 +4,9 @@
 baseurl:
 url: https://blog.maikebuke.com
 date_format: "ordinal"
-title: 麦科不氪-我的学习笔记
-subtitle: "个人的学习分享"
-description: "麦科不氪の学习小站"
+title: 我的学习笔记
+subtitle: "麦科不氪の学习小站"
+description: "偷偷地向你说你好呀\(@^0^@)/"
 keywords: 学习, 笔记, 分享, Blog
 timezone: Asia/Shanghai
 encoding: "utf-8"
