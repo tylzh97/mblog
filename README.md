@@ -6,11 +6,13 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [效果预览](#效果预览)
-* [内容编辑指南](#内容编辑指南)
-* [经验与思考](#经验与思考)
-* [联系我](#联系我)
-* [致谢](#致谢)
+- [麦科不氪的学习笔记](#麦科不氪的学习笔记)
+  - [概览](#概览)
+  - [效果预览](#效果预览)
+  - [内容编辑指南](#内容编辑指南)
+  - [经验与思考](#经验与思考)
+  - [联系我](#联系我)
+  - [致谢](#致谢)
 
 <!-- vim-markdown-toc -->
 
@@ -53,6 +55,6 @@
 
 ## 致谢
 
-本博客模板来自 [mzlogin.github.io](https://mzlogin/mzlogin.github.io) 项目，感谢！
+本博客模板来自 [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) 项目，感谢！
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
