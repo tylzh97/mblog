@@ -109,7 +109,8 @@ PE文件是指 32 位可执行文件，也称为`PE32`。64位的可执行文件
     (gdb) next
     ```
 
-11.  ~~进入layout模式查看上下文汇编~~  **不推荐**
+11.  ~~进入layout模式查看上下文汇编~~  **不推荐**</br>
+    
     ```shell
     (gdb) layout asm
     # 使用 Ctrl + X A 退出 layout 模式
