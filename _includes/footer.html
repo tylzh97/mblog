@@ -28,10 +28,12 @@
 
           {% include visit-stat.html %}
 
+          {% if site.icp.enabled %}
           <div class="site-footer left">
             <img style="vertical-align:middle" src="https://blog.maikebuke.com/assets/images/beian.png">
-            <span style="vertical-align:middle">京ICP备2021031940号-1</span>
+            <span style="vertical-align:middle">{{ site.icp.name }}</span>
           </div>
+          {% endif %}
         </div>
         
     </footer>

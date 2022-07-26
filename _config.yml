@@ -11,6 +11,10 @@ keywords: 学习, 笔记, 分享, Blog
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: tylzh97/rhblog
+# 对网站备案信息进行配置
+icp:
+  enabled: true
+  name: "京ICP备2021031940号-1"
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
