@@ -4,8 +4,8 @@
 baseurl:
 url: https://blog.maikebuke.com
 date_format: "ordinal"
-title: 我的学习笔记
-subtitle: "麦科不氪の学习小站"
+title: Maikebuke
+subtitle: "今天你学习了么?"
 description: "偷偷地向你说你好\\(@^0^@)/"
 keywords: 学习, 笔记, 分享, Blog
 timezone: Asia/Shanghai
@@ -24,12 +24,12 @@ components:
         hide-platforms: qq, facebook
     # 不蒜子访问统计
     busuanzi:
-        enabled: false
+        enabled: true
         start_date: 2020-05-03
     # My Popular Repositories
     side_bar_repo:
         enabled: true
-        limit: 2
+        limit: 3
     # 文章字数统计
     word_count:
         enabled: true
@@ -149,7 +149,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
