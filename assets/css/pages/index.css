@@ -1,9 +1,10 @@
 .home .banner {
-  background: url(../../images/octicons-bg.png) center #555;
+  background: url(../../images/octicons-bg.png) center #333;
   color: #fff;
 }
 .home .site-header {
-    background: #fd329b;
+    /* background: #fb7299; */
+    background: #222;
     color: #fff
 }
 
