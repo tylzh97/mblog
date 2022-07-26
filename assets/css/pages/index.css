@@ -1,9 +1,6 @@
-.home .banner {
-  color: #fff;
-}
-
+.home .banner,
 .home .site-header {
-    background: #ff2885;
+    background: #4183c4;
     color: #fff
 }
 
@@ -12,6 +9,10 @@
     background: 0 0;
     box-shadow: none;
     -webkit-box-shadow: none
+}
+
+.banner {
+  background: rgba(255, 255, 255, 0);
 }
 
 .home .site-header {
