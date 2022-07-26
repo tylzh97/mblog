@@ -8,11 +8,11 @@ menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+这里是Maikebuke的小站
 
-仰慕「优雅编码的艺术」。
+分享中科院菜菜研究生的学习笔记以及日常吐槽
 
-坚信熟能生巧，努力改变人生。
+有任何问题都可以尝试联系我
 
 ## 联系
 
@@ -20,10 +20,10 @@ permalink: /about/
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
-{% if site.url contains 'mazhuang.org' %}
+{% if site.url contains 'maikebuke.com' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="小李脱口秀" />
 </li>
 {% endif %}
 </ul>
