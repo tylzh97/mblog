@@ -12,7 +12,7 @@
 }
 
 .banner {
-  background: url(../../images/octicons-bg.png);
+  background: url(../../images/octicons-bg.png) center #555;
 }
 
 .home .site-header {
