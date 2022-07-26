@@ -1,6 +1,9 @@
-.home .banner,
+.home .banner {
+  color: #fff;
+}
+
 .home .site-header {
-    background: #4183c4;
+    background: #ff2885;
     color: #fff
 }
 
