@@ -1,6 +1,9 @@
-.home .banner,
+.home .banner {
+  background: url(../../images/octicons-bg.png) center #555;
+  color: #fff;
+}
 .home .site-header {
-    background: #4183c4;
+    background: #fd329b;
     color: #fff
 }
 
@@ -9,10 +12,6 @@
     background: 0 0;
     box-shadow: none;
     -webkit-box-shadow: none
-}
-
-.banner {
-  background: url(../../images/octicons-bg.png) center #555;
 }
 
 .home .site-header {
