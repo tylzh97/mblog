@@ -1,6 +1,6 @@
 # 麦科不氪的学习笔记
 
-我的学习笔记：<https://blog.maikebuke.com>，欢迎 Star 和 Fork。
+我的学习笔记：<https://www.maikebuke.com>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -18,7 +18,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://blog.maikebuke.com)**
+**[在线预览 &rarr;](https://www.maikebuke.com)**
 
 ## 内容编辑指南
 
