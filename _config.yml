@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.maikebuke.com
+url: https://blogs.maikebuke.com
 date_format: "ordinal"
 title: Maikebuke
 subtitle: "今天你学习了么?"
