@@ -150,6 +150,6 @@ PE文件是指 32 位可执行文件，也称为`PE32`。64位的可执行文件
 
 ## 参考
 
-- [Ubuntu官网][1]
+- [C语言中文网-GDB专题][1]
 
-[1]: https://ubuntu.com/
+[1]: http://c.biancheng.net/gdb/
